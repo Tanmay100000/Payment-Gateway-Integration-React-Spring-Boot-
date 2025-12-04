@@ -1,0 +1,26 @@
+# --- GLOBAL IGNORE FOR THIS PROJECT ---
+
+# Eclipse junk
+.metadata/
+*.log
+*.prefs
+
+# Java / Maven
+razorpay-payment-backend/target/
+razorpay-payment-backend/.classpath
+razorpay-payment-backend/.project
+razorpay-payment-backend/.settings/
+
+# Spring Boot secrets
+razorpay-payment-backend/src/main/resources/application.properties
+
+# Node / React
+payment-frontend/node_modules/
+payment-frontend/.env
+payment-frontend/dist/
+payment-frontend/.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
