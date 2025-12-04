@@ -20,8 +20,11 @@ Designed to demonstrate **secure API communication**, **environment-based config
 ## 🛠️ **Tech Stack**
 
 **Frontend:** React, Axios, Vite
+
 **Backend:** Spring Boot, Java
+
 **Build Tools:** Maven
+
 **Version Control:** Git & GitHub
 
 ---
